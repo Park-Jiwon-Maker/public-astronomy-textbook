@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 스크립트를 실행하면 생기는 파일(장 폴더 안)
+fig/
+synthetic.fits
+m51_photometry/
+repo/
+
+# 직접 받은 FITS 파일은 올리지 않는다(용량·저작권)
+*.fits
+*.fits.gz
+
+# 운영체제
+.DS_Store
+Thumbs.db
+desktop.ini

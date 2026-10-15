@@ -1,0 +1,14 @@
+m51_photometry/
+├─ data/
+│  ├─ raw/          # 내려받은 원본. 절대 수정하지 않는다
+│  └─ processed/    # 가공 결과. 언제든 코드로 다시 만들 수 있어야 한다
+├─ code/
+│  ├─ 01_inspect.ipynb
+│  ├─ 02_photometry.ipynb
+│  └─ 03_figures.ipynb
+├─ fig/            # 보고서에 넣을 그림. 코드가 자동 저장
+├─ docs/
+│  ├─ SOURCES.md    # 데이터 출처·DOI·접속일
+│  └─ LOG.md        # 날짜별 작업 기록과 판단 근거
+└─ README.md        # 이 프로젝트가 무엇이고 어떻게 실행하는가
+만든 폴더: m51_photometry

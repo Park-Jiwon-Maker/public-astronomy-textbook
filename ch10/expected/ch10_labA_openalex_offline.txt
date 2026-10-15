@@ -1,0 +1,9 @@
+"astronomy education" 1055 None
+astronomy 82914 None
+2020    11.27
+2021    11.63
+2022     9.14
+2023     8.42
+2024    13.38
+2025    24.42
+dtype: float64

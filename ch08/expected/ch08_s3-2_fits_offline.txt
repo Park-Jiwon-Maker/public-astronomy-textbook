@@ -1,0 +1,11 @@
+모의 영상 합계 8452420.58712957
+Filename: synthetic.fits
+No.    Name      Ver    Type      Cards   Dimensions   Format
+  0  PRIMARY       1 PrimaryHDU       7   (256, 256)   float64   
+OBJECT     synthetic (educational mock image)
+DATE-OBS   — 없음
+EXPTIME    60
+FILTER     — 없음
+TELESCOP   — 없음
+저장 fig/synthetic_asinh.png
+표시 후 합계 8452420.58712957

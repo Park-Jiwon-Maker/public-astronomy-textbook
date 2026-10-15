@@ -1,0 +1,6 @@
+문서 | 정점 날짜(UTC) | 정점/기준선 배수 | 반감 일수 | 절반 넘은 날 수
+en.wikipedia Solar_eclipse_of_April_8,_2024 | 2024-04-08 | 1612.6 | 1 | 1
+en.wikipedia Solar_eclipse | 2024-04-08 | 165.0 | 1 | 1
+ko.wikipedia 2024년_4월_8일_일식 | 2024-04-08 | 326.7 | 1 | 1
+ko.wikipedia 일식 | 2024-04-08 | 90.9 | 2 | 2
+짧은 창(3/20–4/8) 반감 일수: None | 기준선 0일 때 배수: None | 기준선 결측일 때 배수: None

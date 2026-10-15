@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "이 저장소의 코드나 자료를 쓰면 아래와 같이 인용한다."
+title: "『대중천문학개론』 실습 코드와 자료"
+type: software
+# 저자 추가 예정: 저자가 확정되면 아래 authors 목록을 채운다. 형식 예시
+#   - family-names: "성"
+#     given-names: "이름"
+#     affiliation: "소속"
+authors:
+  - name: "대중천문학개론 집필진"
+repository-code: "https://github.com/Park-Jiwon-Maker/public-astronomy-textbook"
+url: "https://github.com/Park-Jiwon-Maker/public-astronomy-textbook"
+license: MIT
+version: "2026.10"
+date-released: "2026-10-15"
+keywords:
+  - astronomy education
+  - public astronomy
+  - FITS
+  - astropy
+  - bibliometrics
+  - altmetrics
