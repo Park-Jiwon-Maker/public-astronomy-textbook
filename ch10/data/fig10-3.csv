@@ -1,4 +1,4 @@
-# 그림 10-3 자료. OpenAlex, 2026-10-14 조회(research_digest.json 값과 같은 날 재조회 결과가 일치)
+# 그림 10-2 자료(파일 이름은 초판 원고 번호를 따른다). OpenAlex, 2026-10-14 조회(research_digest.json 값과 같은 날 재조회 결과가 일치)
 # 분자: https://api.openalex.org/works?filter=title_and_abstract.search:%22astronomy%20education%22,publication_year:2000-2025&group_by=publication_year
 # 분모: https://api.openalex.org/works?filter=title_and_abstract.search:astronomy,publication_year:2000-2025&group_by=publication_year
 # zenodo_records: 2025년 분자 가운데 Zenodo(S4306400562)에 일괄 게시된 자료(대부분 학술대회 포스터)

@@ -38,7 +38,7 @@ public-astronomy-textbook/
    ├─ ch10_labA_openalex.py / .ipynb
    ├─ ch10_labE_pageviews.py / .ipynb  ch10_labE_four_docs.py
    ├─ offline_fixtures.py       # --offline일 때 requests.get 대신 data/의 CSV로 응답한다
-   ├─ data/fig10-3.csv          # OpenAlex 2026-10-14 조회값(그림 10-3 자료)
+   ├─ data/fig10-3.csv          # OpenAlex 2026-10-14 조회값(그림 10-2 자료)
    ├─ data/fig10-4.csv          # Wikimedia 2026-10-14 조회값(그림 10-4 자료)
    ├─ data/fig10-4_baseline.csv # 실습 E 기준선(조용한 달) 일별 조회수, 2026-10-15 조회
    └─ expected/
